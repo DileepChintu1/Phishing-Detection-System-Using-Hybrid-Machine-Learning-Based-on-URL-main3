@@ -1,0 +1,7 @@
+CREATE TABLE info (
+    user TEXT,
+    email TEXT,
+    password TEXT,
+    mobile TEXT,
+    name TEXT
+);
